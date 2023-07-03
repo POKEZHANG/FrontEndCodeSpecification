@@ -1,2 +1,5 @@
 测试暂存区
 管理修改
+Git has a mutable index called stage.
+Git tracks changes of files.
+git is best
